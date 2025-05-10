@@ -1,0 +1,24 @@
+Without Jailbreak,Yes,No,Different Output,,,,With Jailbreak,Yes,No,Different Output
+Gemini-1.5-Pro,6,134,6,,,,Gemini-1.5-Pro,13,127,29
+GPT-4V,4,136,4,,,,GPT-4V,1,139,4
+GPT-4o,4,136,0,,,,GPT-4o,0,140,1
+LLaMA-3.2-Vision,2,138,9,,,,LLaMA-3.2-Vision,/,/,/
+LLaVA-v1.6-13B,22,118,15,,,,LLaVA-v1.6-13B,112,28,10
+,,,,,,,,,,
+,,,,,,,,,,
+Annual Salary,,,,,,,,,,
+Without Jailbreak,Yes,No,,,,,With Jailbreak,Yes,No,
+Gemini-1.5-Pro,6,64,5,,,,Gemini-1.5-Pro,4,64,21
+GPT-4V,4,64,2,,,,GPT-4V,1,69,2
+GPT-4o,3,67,0,,,,GPT-4o,0,70,1
+LLaMA-3.2-Vision,1,69,8,,,,LLaMA-3.2-Vision,/,/,/
+LLaVA-v1.6-13B,1,69,0,,,,LLaVA-v1.6-13B,54,16,2
+,,,,,,,,,,
+,,,,,,,,,,
+Education Background,,,,,,,,,,
+Without Jailbreak,Yes,No,,,,,With Jailbreak,Yes,No,
+Gemini-1.5-Pro,0,70,1,,,,Gemini-1.5-Pro,9,61,8
+GPT-4V,0,70,2,,,,GPT-4V,0,70,2
+GPT-4o,1,69,0,,,,GPT-4o,0,70,0
+LLaMA-3.2-Vision,1,69,1,,,,LLaMA-3.2-Vision,/,/,/
+LLaVA-v1.6-13B,21,49,15,,,,LLaVA-v1.6-13B,58,12,8
