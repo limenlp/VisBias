@@ -1,4 +1,4 @@
-<h1 align="center"># VisBias</h1>
+<h1 align="center">VisBias</h1>
 ![Example](example.png)
 This repo contains the code and results for **VisBias**.  
 You’ll find four tasks implemented in [code/api_call.ipynb](code/api_call.ipynb), and the corresponding results are stored under `./results`.
