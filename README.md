@@ -2,13 +2,11 @@
 This repo contains the code and results for **VisBias**.  
 You’ll find four tasks implemented in [code/api_call.ipynb](code/api_call.ipynb), and the corresponding results are stored under `./results`.
 
----
 
 ## 📂 Project Structure
 - `./source` → All source images  
 - `./results` → Processed results for each task  
 - `./code` → Implementation and evaluation scripts 
----
 
 ## 🚀 How to Run
 
@@ -20,14 +18,12 @@ To get started with different models:
 3. Replace the placeholder with your own `api_key`.  
 4. *(Optional)* Add export code if you want to save results to your local machine.  
 
----
 
 ### 2. 🧹 Data Cleaning
 Before evaluation, you need to clean the raw outputs:  
 
 - For the **form completion task**, run [code/Result_Cleaning_for_Form.ipynb](code/Result_Cleaning_for_Form.ipynb) to generate data in the correct format for evaluation.  
 
----
 
 ### 3. 📊 Evaluation
 
