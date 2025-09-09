@@ -1,7 +1,8 @@
 # VisBias
+![Example](example.png)
 This repo contains the code and results for **VisBias**.  
 You’ll find four tasks implemented in [code/api_call.ipynb](code/api_call.ipynb), and the corresponding results are stored under `./results`.
-![Example](example.png)
+
 
 ## 📂 Project Structure
 - `./source` → All source images  
