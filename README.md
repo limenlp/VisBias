@@ -39,3 +39,17 @@ In addition, we also provide scripts for generating tables and figures used in t
 2. Run [code/figure_generation.ipynb](code/figure_generation.ipynb) → Generate paper figures, compute JSD scores, and visualize them  
 
 ---
+
+## 👉 Paper and Citation
+For more details, please refer to our paper <a href="https://arxiv.org/abs/2503.07575">here</a>.
+
+If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
+```
+@inproceedings{huang2025visbias,
+  title={VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models},
+  author={Huang, Jen-tse and Qin, Jiantong and Zhang, Jianping and Yuan, Youliang and Wang, Wenxuan and Zhao, Jieyu},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={17981--18004},
+  year={2025}
+}
+```
